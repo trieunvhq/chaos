@@ -1,0 +1,13 @@
+C:\Users\w10\Desktop\MyProjects\START\START.Application\bin\Debug\netcoreapp3.1\START.Application.deps.json
+C:\Users\w10\Desktop\MyProjects\START\START.Application\bin\Debug\netcoreapp3.1\START.Application.dll
+C:\Users\w10\Desktop\MyProjects\START\START.Application\bin\Debug\netcoreapp3.1\START.Application.pdb
+C:\Users\w10\Desktop\MyProjects\START\START.Application\obj\Debug\netcoreapp3.1\START.Application.csproj.AssemblyReference.cache
+C:\Users\w10\Desktop\MyProjects\START\START.Application\obj\Debug\netcoreapp3.1\START.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w10\Desktop\MyProjects\START\START.Application\obj\Debug\netcoreapp3.1\START.Application.AssemblyInfoInputs.cache
+C:\Users\w10\Desktop\MyProjects\START\START.Application\obj\Debug\netcoreapp3.1\START.Application.AssemblyInfo.cs
+C:\Users\w10\Desktop\MyProjects\START\START.Application\obj\Debug\netcoreapp3.1\START.Application.csproj.CoreCompileInputs.cache
+C:\Users\w10\Desktop\MyProjects\START\START.Application\obj\Debug\netcoreapp3.1\START.Application.dll
+C:\Users\w10\Desktop\MyProjects\START\START.Application\obj\Debug\netcoreapp3.1\START.Application.pdb
+C:\Users\w10\Desktop\MyProjects\START\START.Application\bin\Debug\netcoreapp3.1\START.Data.dll
+C:\Users\w10\Desktop\MyProjects\START\START.Application\bin\Debug\netcoreapp3.1\START.Data.pdb
+C:\Users\w10\Desktop\MyProjects\START\START.Application\obj\Debug\netcoreapp3.1\START.Application.csproj.CopyComplete

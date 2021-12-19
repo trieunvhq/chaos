@@ -1,0 +1,13 @@
+C:\Users\w10\Desktop\MyProjects\START\START.Data\bin\Debug\netcoreapp3.1\START.Data.deps.json
+C:\Users\w10\Desktop\MyProjects\START\START.Data\bin\Debug\netcoreapp3.1\START.Data.runtimeconfig.json
+C:\Users\w10\Desktop\MyProjects\START\START.Data\bin\Debug\netcoreapp3.1\START.Data.runtimeconfig.dev.json
+C:\Users\w10\Desktop\MyProjects\START\START.Data\bin\Debug\netcoreapp3.1\START.Data.dll
+C:\Users\w10\Desktop\MyProjects\START\START.Data\bin\Debug\netcoreapp3.1\START.Data.pdb
+C:\Users\w10\Desktop\MyProjects\START\START.Data\obj\Debug\netcoreapp3.1\START.Data.csproj.AssemblyReference.cache
+C:\Users\w10\Desktop\MyProjects\START\START.Data\obj\Debug\netcoreapp3.1\START.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w10\Desktop\MyProjects\START\START.Data\obj\Debug\netcoreapp3.1\START.Data.AssemblyInfoInputs.cache
+C:\Users\w10\Desktop\MyProjects\START\START.Data\obj\Debug\netcoreapp3.1\START.Data.AssemblyInfo.cs
+C:\Users\w10\Desktop\MyProjects\START\START.Data\obj\Debug\netcoreapp3.1\START.Data.csproj.CoreCompileInputs.cache
+C:\Users\w10\Desktop\MyProjects\START\START.Data\obj\Debug\netcoreapp3.1\START.Data.dll
+C:\Users\w10\Desktop\MyProjects\START\START.Data\obj\Debug\netcoreapp3.1\START.Data.pdb
+C:\Users\w10\Desktop\MyProjects\START\START.Data\obj\Debug\netcoreapp3.1\START.Data.genruntimeconfig.cache
